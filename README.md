@@ -78,7 +78,3 @@ curl -X DELETE http://localhost:3000/api/books/1
 - Node.js
 - Express.js
 - JavaScript
-
-## License
-
-ISC
